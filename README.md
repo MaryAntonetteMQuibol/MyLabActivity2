@@ -1,2 +1,4 @@
 # MyLabActivity2
-all about webpages
+
+This is a laboratory activity on LGs 2 & 3 !
+Creating a WebPage . 
